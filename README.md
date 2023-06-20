@@ -1,4 +1,4 @@
-## REST APIs dengan studi kasus CRUD bioskop dengan Image dari Cloudinary, dan menggunakan database Postgres.
+## REST APIs studi kasus CRUD bioskop dengan Image dari Cloudinary, dan menggunakan database Postgres.
 
 -----
 Stack :
